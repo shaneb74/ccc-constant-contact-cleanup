@@ -1,0 +1,1655 @@
+[
+  {
+    "contact_id": "55c1df60-62f7-11e3-a62c-d4ae529a824a",
+    "email": "nazbfarook@hotmail.com",
+    "first_name": "Nasreen",
+    "last_name": "Farook",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2011-10-24T17:13:12Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2011-10-24T17:13:12Z",
+    "updated_at": "2024-10-29T17:59:19Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "3af0a360-62f7-11e3-a18c-d4ae529a824a",
+      "42a75c90-975c-11e8-8066-d4ae52a2c97b",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "5dc395f0-62f7-11e3-a74f-d4ae529a824a",
+    "email": "auburnafh@hotmail.com",
+    "first_name": "Daisy",
+    "last_name": "Ling",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2011-10-25T13:52:54Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2011-10-25T13:52:54Z",
+    "updated_at": "2024-10-29T17:59:08Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "3bbad130-62f7-11e3-a18c-d4ae529a824a",
+      "42a75c90-975c-11e8-8066-d4ae52a2c97b",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "66ff2c10-62f7-11e3-a812-d4ae529a824a",
+    "email": "gruita@comcast.net",
+    "first_name": "Lelly",
+    "last_name": "Gruita",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2016-08-03T07:27:53Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2011-10-25T13:53:00Z",
+    "updated_at": "2024-10-29T17:59:13Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "42a75c90-975c-11e8-8066-d4ae52a2c97b",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "e11c3140-6f1f-11e7-b638-d4ae52733d3a",
+    "email": "bobbratt@outlook.com",
+    "first_name": "BobRosd",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2017-07-22T20:53:57Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2017-07-22T20:53:56Z",
+    "updated_at": "2024-10-14T20:47:41Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "5a96c0c6-4181-11eb-a5bf-fa163e3c5d75",
+      "5e1b54b4-b806-11ea-89b5-d4ae52712b64",
+      "722a9c42-4c8b-11ec-9e03-fa163e159116",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "bfcbdd44-56d5-11ed-b75f-fa163ecbdd18"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "dfccd510-7168-11e7-8e3e-d4ae52733d3a",
+    "email": "sjringen@hotmail.com",
+    "first_name": "Sylvia",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2017-07-25T18:41:30Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2017-07-25T18:41:30Z",
+    "updated_at": "2024-12-19T22:38:31Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "5a96c0c6-4181-11eb-a5bf-fa163e3c5d75",
+      "63de19dc-a5be-11ee-8e41-fa163e5bc304",
+      "722a9c42-4c8b-11ec-9e03-fa163e159116",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "bfcbdd44-56d5-11ed-b75f-fa163ecbdd18",
+      "c0bc26ca-d72e-11ee-b3af-fa163ecbdd18",
+      "f5a9cf14-be59-11ef-95d1-fa163e1801b9"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "0fd58616-9d14-11e9-b267-d4ae52a2c97b",
+    "email": "goldendaysadulthome@gmail.com",
+    "first_name": "Eyob",
+    "last_name": "Gebrekidan",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2019-07-02T21:55:10Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2019-07-02T21:55:11Z",
+    "updated_at": "2024-10-29T17:59:12Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "76ed13c0-7579-11e6-9aa8-d4ae529a824a",
+    "email": "ernesto20119@live.com",
+    "first_name": "Ernesto",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2016-09-08T04:05:22Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2016-09-08T04:05:22Z",
+    "updated_at": "2016-09-08T04:05:22Z",
+    "list_memberships": [
+      "3b309290-62f7-11e3-a18c-d4ae529a824a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "c19b5000-1b47-11e9-aaa6-d4ae529a824a",
+    "email": "kezzwan@yahoo.com",
+    "first_name": "Kezziah",
+    "last_name": "Ngatia",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2019-01-18T17:37:41Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2019-01-18T17:37:42Z",
+    "updated_at": "2024-10-29T17:59:13Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "f3c2dd66-16bc-11ea-a780-d4ae52986b44",
+    "email": "karendi68@yahoo.com",
+    "first_name": "ANNE",
+    "last_name": "MBICHIRE",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2019-12-04T17:38:58Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2019-12-04T17:38:59Z",
+    "updated_at": "2024-10-29T17:59:13Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "843fccf0-8e92-11e3-af6d-d4ae52725666",
+    "email": "watrans@yahoo.com",
+    "first_name": "Larisa",
+    "last_name": "Bulkhak",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2014-02-05T18:22:49Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2014-02-05T18:22:50Z",
+    "updated_at": "2024-10-29T17:59:20Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "42a75c90-975c-11e8-8066-d4ae52a2c97b",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "53ad1e80-975c-11e8-a65b-d4ae52710c75",
+    "email": "meronande@gmail.com",
+    "first_name": "Meron",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2018-08-03T20:32:24Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2018-08-03T20:32:25Z",
+    "updated_at": "2024-10-29T17:59:19Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "42a75c90-975c-11e8-8066-d4ae52a2c97b",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "bf07faf0-1b47-11e9-aa99-d4ae529a824a",
+    "email": "ablehands18@gmail.com",
+    "first_name": "joseph",
+    "last_name": "kamau",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2019-01-18T17:37:37Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2019-01-18T17:37:38Z",
+    "updated_at": "2024-10-29T17:59:08Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "53ffb59c-3604-11f1-8b6a-02420a320002",
+    "email": "test-y0hb95t53@srv1.mail-tester.com",
+    "first_name": "",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2026-04-12T00:12:44Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2026-04-12T00:12:44Z",
+    "updated_at": "2026-04-12T00:12:44Z",
+    "list_memberships": [
+      "53100d76-3604-11f1-b66f-02420a320002"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "3509d760-424a-11e7-8bc6-d4ae52712b64",
+    "email": "howardhomecare1@gmail.com",
+    "first_name": "Velvet",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2017-05-26T19:33:34Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2017-05-26T19:33:34Z",
+    "updated_at": "2017-05-26T19:33:34Z",
+    "list_memberships": [
+      "3b309290-62f7-11e3-a18c-d4ae529a824a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "f41840de-dfb8-11e9-aad2-d4ae52733d3a",
+    "email": "nicole.small@signaturehhh.com",
+    "first_name": "Nicole",
+    "last_name": "Small",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2024-10-10T21:20:40Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2019-09-25T17:21:48Z",
+    "updated_at": "2024-10-14T20:47:44Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "6571da6a-6afb-11ef-ac94-fa163e3c5d75",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "b7e5d776-4181-11eb-96fa-fa163edfff7e",
+      "e492737c-5b3d-11ef-ba4d-fa163e24df6a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "63c46ad0-4013-11ed-b4b8-fa163e7b09ec",
+    "email": "celestiallivingafh@gmail.com",
+    "first_name": "MELAT",
+    "last_name": "TEFERA",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2022-09-29T16:25:54Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2022-09-29T16:25:54Z",
+    "updated_at": "2025-03-06T22:00:23Z",
+    "list_memberships": [
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "782df028-e439-11ef-8737-fa163ece13f5",
+    "email": "maf81557@aol.com",
+    "first_name": "",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2025-02-11T00:56:19Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2025-02-06T03:21:35Z",
+    "updated_at": "2025-02-11T00:56:19Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "7d70a2ee-e7c1-11e9-bc9e-d4ae52986b44",
+    "email": "caryntadema@gmail.com",
+    "first_name": "Caryn",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2019-10-05T22:43:03Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2019-10-05T22:43:03Z",
+    "updated_at": "2019-10-05T22:43:03Z",
+    "list_memberships": [
+      "3b309290-62f7-11e3-a18c-d4ae529a824a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "c44f5eaa-4921-11ea-a081-d4ae52986b44",
+    "email": "adena.dutter@eraliving.com",
+    "first_name": "Adena",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2020-02-06T20:46:36Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2020-02-06T20:46:36Z",
+    "updated_at": "2020-02-06T20:46:36Z",
+    "list_memberships": [
+      "3b309290-62f7-11e3-a18c-d4ae529a824a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "3c10274e-29d7-11eb-b6f9-fa163e5bc304",
+    "email": "susanyumbia@gmail.com",
+    "first_name": "Susan",
+    "last_name": "Njoroge",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2020-11-18T19:49:56Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2020-11-18T19:49:57Z",
+    "updated_at": "2024-10-14T20:47:38Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "5f488a40-8e1f-11e8-bf10-d4ae529a824a",
+    "email": "nina.kral@aegisliving.com",
+    "first_name": "Nina",
+    "last_name": "Kral",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2018-07-23T02:23:23Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2018-07-23T02:23:24Z",
+    "updated_at": "2026-02-13T17:32:55Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "1951bb70-8e1e-11e8-96c0-d4ae52a2c97b",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "42a75c90-975c-11e8-8066-d4ae52a2c97b",
+      "53c645d6-4a10-11eb-a090-fa163ecbdd18",
+      "5b5857c0-0901-11f1-8f61-024202b46395",
+      "64c2d3cc-fa10-11ef-bf60-fa163e1801b9",
+      "6571da6a-6afb-11ef-ac94-fa163e3c5d75",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "87db267e-0901-11f1-bdf1-0242a6422eda",
+      "8f464938-561d-11ed-83d3-fa163e5bc304",
+      "cbf364e0-a241-11e8-a198-d4ae529a8612"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "4fb97620-975c-11e8-a656-d4ae52710c75",
+    "email": "amazingpalaceafhllc@gmail.com",
+    "first_name": "eddah",
+    "last_name": "mwangi",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2018-08-03T20:32:17Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2018-08-03T20:32:18Z",
+    "updated_at": "2024-10-29T17:59:08Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "42a75c90-975c-11e8-8066-d4ae52a2c97b",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "856389f0-374e-11e8-9b6e-d4ae529a848a",
+    "email": "bjbigger@aol.com",
+    "first_name": "Brenda",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2018-04-03T14:51:42Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2018-04-03T14:51:41Z",
+    "updated_at": "2018-04-03T14:51:41Z",
+    "list_memberships": [
+      "3b309290-62f7-11e3-a18c-d4ae529a824a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "2c2cbf38-477c-11ea-b8bc-d4ae52986b44",
+    "email": "triciamissy@gmail.com",
+    "first_name": "Tricia",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2020-02-04T18:28:43Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2020-02-04T18:28:43Z",
+    "updated_at": "2020-02-04T18:28:43Z",
+    "list_memberships": [
+      "3b309290-62f7-11e3-a18c-d4ae529a824a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "fd5fba10-cd7f-11e8-b1a0-d4ae52a2c97b",
+    "email": "lcreasy@foundationhouseng.com",
+    "first_name": "Lynn",
+    "last_name": "Creasy",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2018-10-11T18:03:43Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2018-10-11T18:03:43Z",
+    "updated_at": "2026-02-13T17:31:01Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "50e631ec-084c-11f0-83a6-fa163e1801b9",
+      "53c645d6-4a10-11eb-a090-fa163ecbdd18",
+      "64c2d3cc-fa10-11ef-bf60-fa163e1801b9",
+      "6571da6a-6afb-11ef-ac94-fa163e3c5d75",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "b7e5d776-4181-11eb-96fa-fa163edfff7e"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "f41ead02-dfb8-11e9-aad2-d4ae52733d3a",
+    "email": "aserenityafh@hotmail.com",
+    "first_name": "Constantin",
+    "last_name": "Craciun",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2019-09-25T17:21:47Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2019-09-25T17:21:48Z",
+    "updated_at": "2024-10-29T17:59:08Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "91d5a24c-c44f-11ee-ae80-fa163e159116",
+    "email": "blessedhope2535@gmail.com",
+    "first_name": "Paul",
+    "last_name": "Kamau",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2024-02-05T17:54:12Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2024-02-05T17:54:13Z",
+    "updated_at": "2024-10-29T17:59:08Z",
+    "list_memberships": [
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "58ee4a20-0998-11e7-b77a-d4ae529a848a",
+    "email": "rose@conciergecareadvisors.com",
+    "first_name": "Rose",
+    "last_name": "Fabrick",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2020-07-20T17:59:44Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2017-03-15T15:59:19Z",
+    "updated_at": "2021-02-01T16:46:23Z",
+    "list_memberships": [],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "8a6893b0-1b4a-11e9-bc0e-d4ae529a848a",
+    "email": "skeith.helmka@commonspirit.org",
+    "first_name": "Keith",
+    "last_name": "Helmka",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2025-12-10T17:47:53Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2019-01-18T17:57:38Z",
+    "updated_at": "2026-02-13T17:31:03Z",
+    "list_memberships": [
+      "0b646be6-df8b-11ef-8255-fa163e65543c",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "28e1aa86-961a-11ef-97d7-fa163e2564f0",
+      "64c2d3cc-fa10-11ef-bf60-fa163e1801b9",
+      "6571da6a-6afb-11ef-ac94-fa163e3c5d75",
+      "6c2b8388-684a-11ee-8873-fa163e159116",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7da39da2-11de-11ee-8a92-fa163e5bc304",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "a0d93d84-8a5c-11ef-a9a7-fa163e4cd47f",
+      "ab35b9c0-772a-11ed-a7a5-fa163ecbdd18",
+      "b7e5d776-4181-11eb-96fa-fa163edfff7e",
+      "d9bc9268-b96a-11ee-9ed7-fa163e5bc304",
+      "dbd1852c-8a48-11ef-b1b7-fa163ec4d528",
+      "e492737c-5b3d-11ef-ba4d-fa163e24df6a",
+      "f37a3f64-67f8-11f0-ac4c-fa163e45caeb"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "c6f253a0-338e-11e4-a48e-d4ae529a824a",
+    "email": "lolitathinnes@yahoo.com",
+    "first_name": "Lolita",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2014-09-03T17:21:45Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2014-09-03T17:21:47Z",
+    "updated_at": "2024-10-14T20:47:43Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "42a75c90-975c-11e8-8066-d4ae52a2c97b",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "9d6ebb4c-4582-11eb-ab97-fa163e5bc304",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "f850e8d0-cf55-11e5-8908-d4ae529a848a",
+    "email": "rlavery@parkridgecare.com",
+    "first_name": "Rosemary",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2016-02-09T17:53:05Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2016-02-09T17:53:04Z",
+    "updated_at": "2026-02-13T17:31:03Z",
+    "list_memberships": [
+      "0b646be6-df8b-11ef-8255-fa163e65543c",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "1951bb70-8e1e-11e8-96c0-d4ae52a2c97b",
+      "28e1aa86-961a-11ef-97d7-fa163e2564f0",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "50a34660-6414-11e6-bd5f-d4ae52710c75",
+      "64c2d3cc-fa10-11ef-bf60-fa163e1801b9",
+      "6571da6a-6afb-11ef-ac94-fa163e3c5d75",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "b7e5d776-4181-11eb-96fa-fa163edfff7e",
+      "e492737c-5b3d-11ef-ba4d-fa163e24df6a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "32cb4b66-417c-11eb-a7a5-fa163edfff7e",
+    "email": "thatgirljenny@gmail.com",
+    "first_name": "Jennifer",
+    "last_name": "Krzemien",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2023-12-28T16:56:33Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2020-12-18T21:58:44Z",
+    "updated_at": "2023-12-28T16:56:33Z",
+    "list_memberships": [
+      "7da39da2-11de-11ee-8a92-fa163e5bc304",
+      "8f464938-561d-11ed-83d3-fa163e5bc304"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "a1fe997e-4c8a-11ec-8bdf-fa163ecbdd18",
+    "email": "countrymeadows8627@yahoo.com",
+    "first_name": "Maria",
+    "last_name": "Mendoza",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2021-11-23T18:24:44Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2021-11-23T18:24:45Z",
+    "updated_at": "2024-10-29T17:59:12Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "c876fd70-30ea-11e5-9a2c-d4ae52712b64",
+    "email": "ginacelestial@gmail.com",
+    "first_name": "gina",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2015-07-23T03:27:44Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2015-07-23T03:27:44Z",
+    "updated_at": "2021-08-19T22:38:25Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "42a75c90-975c-11e8-8066-d4ae52a2c97b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "f8a92b18-dfb8-11e9-aad2-d4ae52733d3a",
+    "email": "vistracareafh@gmail.com",
+    "first_name": "Rahab",
+    "last_name": "Karani",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2019-09-25T17:21:55Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2019-09-25T17:21:55Z",
+    "updated_at": "2024-10-29T17:59:20Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "2cdc072a-2f54-11eb-8040-fa163e24df6a",
+    "email": "lwlafh@outlook.com",
+    "first_name": "ZEKARIASE",
+    "last_name": "WOLDSELASSIE",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2020-11-25T19:26:54Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2020-11-25T19:26:55Z",
+    "updated_at": "2024-10-29T17:59:13Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "826f3aa0-7bc9-11e7-8197-d4ae52712b64",
+    "email": "clazman@phumba.com",
+    "first_name": "Jerry",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2017-08-07T23:38:26Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2017-08-07T23:38:26Z",
+    "updated_at": "2024-10-14T20:47:41Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "5a96c0c6-4181-11eb-a5bf-fa163e3c5d75",
+      "5e1b54b4-b806-11ea-89b5-d4ae52712b64",
+      "722a9c42-4c8b-11ec-9e03-fa163e159116",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "bfcbdd44-56d5-11ed-b75f-fa163ecbdd18"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "b93bd1e6-5b3d-11ef-bb95-fa163e3c5d75",
+    "email": "steve3069_97520@pm.me",
+    "first_name": "Stephen",
+    "last_name": "Hansen",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2025-08-19T15:16:27Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2024-08-15T19:36:53Z",
+    "updated_at": "2025-08-19T15:16:27Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "2f41be60-4f94-11e5-ae6a-d4ae52712b64",
+    "email": "tgtsadu@gimal.com",
+    "first_name": "Tigsty",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2015-08-31T03:55:57Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2015-08-31T03:55:57Z",
+    "updated_at": "2015-08-31T03:55:57Z",
+    "list_memberships": [
+      "3b309290-62f7-11e3-a18c-d4ae529a824a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "1ab41ca0-50f1-11e5-937a-d4ae529a848a",
+    "email": "saidu9.ss@gmail.com",
+    "first_name": "SAIDU",
+    "last_name": "SESAY",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2015-09-01T21:33:37Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2015-09-01T21:33:37Z",
+    "updated_at": "2024-10-29T17:59:19Z",
+    "list_memberships": [
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "efe89bd4-1399-11ef-b92c-fa163e7b09ec",
+    "email": "adalenaafh@gmail.com",
+    "first_name": "EDWARD",
+    "last_name": "GACHIRI",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2024-05-16T15:35:34Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2024-05-16T15:35:35Z",
+    "updated_at": "2024-10-29T17:59:08Z",
+    "list_memberships": [
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "fa689b00-6ae3-11e8-a0b3-d4ae52712b64",
+    "email": "dliorga@gmail.com",
+    "first_name": "Daniel",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2018-06-08T06:20:02Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2018-06-08T06:20:02Z",
+    "updated_at": "2024-10-29T17:59:12Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "42a75c90-975c-11e8-8066-d4ae52a2c97b",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "9d6ebb4c-4582-11eb-ab97-fa163e5bc304",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "56e05d10-975c-11e8-a65e-d4ae52710c75",
+    "email": "sunsetofmilton@gmail.con",
+    "first_name": "Anne",
+    "last_name": "Njuguna",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2019-10-02T20:43:33Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2018-08-03T20:32:29Z",
+    "updated_at": "2021-08-19T22:38:25Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "42a75c90-975c-11e8-8066-d4ae52a2c97b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "bf08be40-1b47-11e9-aa9b-d4ae529a824a",
+    "email": "angelmercyafh@gmail.com",
+    "first_name": "Susan",
+    "last_name": "Wakaba",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2019-01-18T17:37:37Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2019-01-18T17:37:38Z",
+    "updated_at": "2024-10-29T17:59:08Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "7f3cec24-2f53-11eb-b6f9-fa163e5bc304",
+    "email": "gpappasf7@gmail.com",
+    "first_name": "",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2024-11-06T17:43:04Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2020-11-25T19:22:03Z",
+    "updated_at": "2025-04-03T15:08:53Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "bfcbdd44-56d5-11ed-b75f-fa163ecbdd18"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "bef9dde0-f942-11eb-b00f-fa163e159116",
+    "email": "moniemuita@yahoo.com",
+    "first_name": "Monicah",
+    "last_name": "Muita",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2021-12-19T07:07:35Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2021-08-09T18:51:04Z",
+    "updated_at": "2021-12-19T07:07:35Z",
+    "list_memberships": [],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "9bae5be0-ec33-11e4-be91-d4ae52986b44",
+    "email": "waynjsn@yahoo.com",
+    "first_name": "Wayne Johnson",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2015-04-26T16:45:12Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2015-04-26T16:45:12Z",
+    "updated_at": "2024-10-14T20:47:41Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "5a96c0c6-4181-11eb-a5bf-fa163e3c5d75",
+      "5e1b54b4-b806-11ea-89b5-d4ae52712b64",
+      "722a9c42-4c8b-11ec-9e03-fa163e159116",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "bfcbdd44-56d5-11ed-b75f-fa163ecbdd18",
+      "d55bb650-2364-11e9-a3a2-d4ae52a2c97b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "e69de348-2a2d-11f1-8d6d-02427845aa03",
+    "email": "shanetbray@proton.me",
+    "first_name": "",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2026-03-27T22:40:05Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2026-03-27T22:40:06Z",
+    "updated_at": "2026-04-12T00:12:43Z",
+    "list_memberships": [
+      "53100d76-3604-11f1-b66f-02420a320002",
+      "70cd5258-2a2c-11f1-93a1-02427845aa03"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "bf087020-1b47-11e9-aa9b-d4ae529a824a",
+    "email": "ndegwamary@yahoo.com",
+    "first_name": "Mary",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2019-01-18T17:37:37Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2019-01-18T17:37:38Z",
+    "updated_at": "2024-10-29T17:59:19Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "573c5570-1234-11e6-9500-d4ae52712b64",
+    "email": "emily@mastercareinhomeservices.com",
+    "first_name": "Emily",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2016-05-04T20:11:09Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2016-05-04T20:11:09Z",
+    "updated_at": "2026-02-13T17:31:01Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "28e1aa86-961a-11ef-97d7-fa163e2564f0",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "50e631ec-084c-11f0-83a6-fa163e1801b9",
+      "6571da6a-6afb-11ef-ac94-fa163e3c5d75",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "9adbe920-9a73-11e8-8165-d4ae52a2c97b",
+      "b7e5d776-4181-11eb-96fa-fa163edfff7e",
+      "e492737c-5b3d-11ef-ba4d-fa163e24df6a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "91dbb2f0-1c0b-11e4-912d-d4ae52986b44",
+    "email": "yglsea@yahoo.com",
+    "first_name": "",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2014-08-04T19:14:34Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2014-08-04T19:14:34Z",
+    "updated_at": "2021-08-19T22:38:25Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "42a75c90-975c-11e8-8066-d4ae52a2c97b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "e1fec290-e3b7-11e8-be07-d4ae52733d3a",
+    "email": "swed221@yahoo.com",
+    "first_name": "Tofick Bakias",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2018-11-09T00:39:14Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2018-11-09T00:39:14Z",
+    "updated_at": "2024-10-29T17:59:20Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "177ce6a0-d75d-11e5-a3d5-d4ae529a824a",
+    "email": "patben10@juno.com",
+    "first_name": "Patricia",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2016-02-19T23:04:13Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2016-02-19T23:04:13Z",
+    "updated_at": "2016-02-19T23:04:13Z",
+    "list_memberships": [
+      "3b309290-62f7-11e3-a18c-d4ae529a824a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "b69271a6-c4fd-11e9-9eb2-d4ae52986b44",
+    "email": "yonasozeru@yahoo.com",
+    "first_name": "Yonas",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2019-08-22T16:55:58Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2019-08-22T16:55:58Z",
+    "updated_at": "2019-08-22T16:55:58Z",
+    "list_memberships": [
+      "3b309290-62f7-11e3-a18c-d4ae529a824a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "4fdc1660-3602-11f1-8993-02420a320002",
+    "email": "test-87pn1njzw@srv1.mail-tester.com",
+    "first_name": "",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2026-04-11T23:58:18Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2026-04-11T23:58:18Z",
+    "updated_at": "2026-04-11T23:58:18Z",
+    "list_memberships": [
+      "4f72f04a-3602-11f1-be0b-02420a320002"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "af4c5030-455c-11e5-ae62-d4ae52712b64",
+    "email": "mellolson@comcast.net",
+    "first_name": "Alice",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2015-08-18T03:53:28Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2015-08-18T03:53:28Z",
+    "updated_at": "2015-08-18T03:53:28Z",
+    "list_memberships": [
+      "3b309290-62f7-11e3-a18c-d4ae529a824a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "b3f3a0de-4c8a-11ec-801e-fa163e24df6a",
+    "email": "ismailfatima869@gmail.com",
+    "first_name": "FATiMA",
+    "last_name": "ISMAIL",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2024-02-09T18:44:48Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2021-11-23T18:25:16Z",
+    "updated_at": "2024-10-14T20:47:39Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "fb7b0668-cee5-11eb-bf50-fa163efd402b",
+    "email": "redondosunset2021@gmail.com",
+    "first_name": "",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2021-06-16T21:01:12Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2021-06-16T21:01:13Z",
+    "updated_at": "2024-10-29T17:59:19Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "98361450-0aa6-11e8-b0aa-d4ae52710c75",
+    "email": "mcd2252@hotmail.com",
+    "first_name": "Mike",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2018-02-05T18:58:47Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2018-02-05T18:58:46Z",
+    "updated_at": "2018-02-05T18:58:46Z",
+    "list_memberships": [
+      "3b309290-62f7-11e3-a18c-d4ae529a824a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "7a764680-5056-11e6-9be6-d4ae529a8612",
+    "email": "jnajavits@hotmail.com",
+    "first_name": "Judith",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2016-07-22T21:51:43Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2016-07-22T21:51:43Z",
+    "updated_at": "2016-07-22T21:51:43Z",
+    "list_memberships": [
+      "3b309290-62f7-11e3-a18c-d4ae529a824a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "81fdd5c0-1431-11e9-ac3a-d4ae529a8612",
+    "email": "valbush@juno.com",
+    "first_name": "Patti",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2019-01-09T17:10:47Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2019-01-09T17:10:47Z",
+    "updated_at": "2024-10-14T20:47:41Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "3b309290-62f7-11e3-a18c-d4ae529a824a",
+      "5a96c0c6-4181-11eb-a5bf-fa163e3c5d75",
+      "5e1b54b4-b806-11ea-89b5-d4ae52712b64",
+      "722a9c42-4c8b-11ec-9e03-fa163e159116",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "bfcbdd44-56d5-11ed-b75f-fa163ecbdd18",
+      "c0bc26ca-d72e-11ee-b3af-fa163ecbdd18"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "e5dadb70-6070-11e9-8302-d4ae52986b44",
+    "email": "nancyporter55@hotmail.com",
+    "first_name": "nancy",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2019-04-16T17:56:02Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2019-04-16T17:56:02Z",
+    "updated_at": "2019-04-16T17:56:02Z",
+    "list_memberships": [
+      "3b309290-62f7-11e3-a18c-d4ae529a824a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "77944e80-8f19-11e4-955c-d4ae529a824a",
+    "email": "jkayporter@yahoo.com",
+    "first_name": "Julie",
+    "last_name": "",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Contact",
+    "opt_in_date": "2014-12-29T05:13:47Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2014-12-29T05:13:47Z",
+    "updated_at": "2014-12-29T05:13:47Z",
+    "list_memberships": [
+      "3b309290-62f7-11e3-a18c-d4ae529a824a"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "844216e0-8e92-11e3-af7b-d4ae52725666",
+    "email": "baybridgecarehome@gmail.com",
+    "first_name": "von",
+    "last_name": "camp",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2014-02-05T18:22:49Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2014-02-05T18:22:50Z",
+    "updated_at": "2024-10-29T17:59:08Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "42a75c90-975c-11e8-8066-d4ae52a2c97b",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "4e9362e0-5f16-11e6-adc2-d4ae52986b44",
+    "email": "afh_minioaks@yahoo.com",
+    "first_name": "Julia",
+    "last_name": "Magurean",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2016-08-10T16:20:11Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2016-08-10T16:20:12Z",
+    "updated_at": "2024-10-14T20:47:43Z",
+    "list_memberships": [
+      "0f306d34-4a10-11eb-80ba-fa163e159116",
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "23bd799c-51de-11eb-88f1-fa163e7b09ec",
+      "2c78e618-29d7-11eb-aeda-fa163edfff7e",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "42a75c90-975c-11e8-8066-d4ae52a2c97b",
+      "781ff77e-2f53-11eb-97fc-fa163edfff7e",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116",
+      "ac3052e8-f942-11eb-a728-fa163efd402b"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  },
+  {
+    "contact_id": "3e1d3b3c-013e-11ec-81a3-fa163e3c5d75",
+    "email": "mtsehaye5@yahoo.com",
+    "first_name": "Masho",
+    "last_name": "Tsehaye",
+    "permission_to_send": "explicit",
+    "opt_in_source": "Account",
+    "opt_in_date": "2021-08-19T22:38:58Z",
+    "opt_out_source": "",
+    "opt_out_date": "",
+    "created_at": "2021-08-19T22:38:59Z",
+    "updated_at": "2024-10-29T17:59:19Z",
+    "list_memberships": [
+      "171999d0-8e92-11e3-b49e-d4ae52712b64",
+      "3053c9f8-013e-11ec-94b4-fa163edfff7e",
+      "380d991a-5b3d-11ef-ac51-fa163e24df6a",
+      "7bb141e0-961f-11ef-a51c-fa163e2564f0",
+      "84c775a6-4c8a-11ec-85a6-fa163e159116"
+    ],
+    "reasons": [
+      "explicit_opt_in"
+    ],
+    "tier": "T3"
+  }
+]

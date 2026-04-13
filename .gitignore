@@ -1,0 +1,8 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Don't ignore exports or classifications — they ARE the point of this repo
